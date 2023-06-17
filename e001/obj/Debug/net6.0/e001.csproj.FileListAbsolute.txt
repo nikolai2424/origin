@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/c≠/e001/bin/Debug/net6.0/e001
+/Users/macbook/Desktop/c≠/e001/bin/Debug/net6.0/e001.deps.json
+/Users/macbook/Desktop/c≠/e001/bin/Debug/net6.0/e001.runtimeconfig.json
+/Users/macbook/Desktop/c≠/e001/bin/Debug/net6.0/e001.dll
+/Users/macbook/Desktop/c≠/e001/bin/Debug/net6.0/e001.pdb
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.AssemblyInfo.cs
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.dll
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/refint/e001.dll
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.pdb
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/e001.genruntimeconfig.cache
+/Users/macbook/Desktop/c≠/e001/obj/Debug/net6.0/ref/e001.dll
